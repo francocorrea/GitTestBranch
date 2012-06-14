@@ -8,3 +8,5 @@ Teste de Alteracoes e Commits
 
 14-06 (11:13) - Windows 7 - Alteracao 2 - Branch Fix
 
+14-06 (11:16) - Windows 7 - Alteracao 3 - Branch Fix - Sem Merge
+
