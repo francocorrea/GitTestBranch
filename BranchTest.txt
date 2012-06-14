@@ -3,3 +3,6 @@ Teste de Alteracoes e Commits
 -----------------------------
 
 14-06 (10:20) - Criacao do Branch no GitHub
+
+14-06 (10:45) - Windows 7
+
